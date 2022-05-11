@@ -1,0 +1,134 @@
+{
+    "questions": [
+        {
+            "question": "Who is the father of Geometry?",
+            "options": {
+                "A": "Pythagoras",
+                "B": "Kepler",
+                "C": "Aristotle",
+                "D": "Euclid"
+            },
+            "correct_option": "D"
+        },
+        {
+            "question": "The World's largest desert?",
+            "options": {
+                "A": "Sahara",
+                "B": "Kalahari",
+                "C": "Thar",
+                "D": "Sonoran"
+            },
+            "correct_option": "A"
+        },
+        {
+            "question": "Who developed Python Programming Language?",
+            "options": {
+                "A": "Wick van Rossum",
+                "B": "Rasmus Lerdorf",
+                "C": "Guido van Rossum",
+                "D": "Niene Stom"
+            },
+            "correct_option": "C"
+        },
+        {
+            "question": "What will be the value of the following Python expression?",
+            "options": {
+                "A": "7",
+                "B": "2",
+                "C": "4",
+                "D": "1"
+            },
+            "correct_option": "A"
+        },
+        {
+            "question": "Which of the following is the truncation division operator in Python?",
+            "options": {
+                "A": "|",
+                "B": "//",
+                "C": "/",
+                "D": "%"
+            },
+            "correct_option": "B"
+        },
+        {
+            "question": "Which of the following functions is a built-in function in python?",
+            "options": {
+                "A": "factorial ()",
+                "B": "print ()",
+                "C": "seed ()",
+                "D": "sqrt ()"
+            },
+            "correct_option": "B"
+        },
+        {
+            "question": "Which one of the following is not a keyword in Python language?",
+            "options": {
+                "A": "pass",
+                "B": "eval",
+                "C": "assert",
+                "D": "nonlocal"
+            },
+            "correct_option": "B"
+        },
+        {
+            "question": "What arithmetic operators cannot be used with strings in Python?",
+            "options": {
+                "A": "-",
+                "B": "*",
+                "C": "+",
+                "D": "All of the mentioned"
+            },
+            "correct_option": "A"
+        },
+        {
+            "question": "Which of the following statements is used to create an empty set in Python?",
+            "options": {
+                "A": "()",
+                "B": "{}",
+                "C": "[]",
+                "D": "set ()"
+            },
+            "correct_option": "C"
+        },
+        {
+            "question": "What is the maximum possible length of an identifier in Python?",
+            "options": {
+                "A": "79 characters",
+                "B": "31 characters",
+                "C": "63 characters",
+                "D": "None of the mentioned"
+            },
+            "correct_option": "D"
+        },
+        {
+            "question": "5 * 4 = ?",
+            "options": {
+                "A": "30",
+                "B": "42",
+                "C": "16",
+                "D": "20"
+            },
+            "correct_option": "D"
+        },
+        {
+            "question": "5 + 4 = ?",
+            "options": {
+                "A": "5",
+                "B": "0",
+                "C": "9",
+                "D": "3"
+            },
+            "correct_option": "C"
+        },
+        {
+            "question": "Square root of 625 ?",
+            "options": {
+                "A": "15",
+                "B": "35",
+                "C": "5",
+                "D": "25"
+            },
+            "correct_option": "D"
+        }
+    ]
+}
